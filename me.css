@@ -1,0 +1,98 @@
+body{
+    background-color: rgb(233, 233, 233);
+    padding-top: 100px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+header{
+    background-color:white;
+    border: 1px solid whitesmoke;
+    border-radius: 15px;
+    display: flex;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+}
+
+.container{
+    background-color: whitesmoke;
+    border:1px solid whitesmoke ;
+    border-radius: 30px;
+    padding: 15px;
+}
+
+.name{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin-right: 82%;
+}
+.book{
+    background-color: black;
+    border: 1px solid black;
+    border-radius: 15px;
+    color: white;
+    /* padding: 5px; */
+    padding-top: 7px;
+    padding-bottom: 7px;
+
+}
+.para{
+    color: rgb(36, 196, 183);
+    background-color: rgb(190, 255, 233);
+    width: 150px;
+    padding: 7px;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
+.parent{
+    padding: 100px;
+}
+.paragraph{
+    font-size: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 500px;
+    margin-bottom:30px ;
+}
+.yrs{
+    width: 400px;
+    margin-bottom: 30px;
+    font-size: small;
+}
+.us{
+    color: white;
+    background-color: black;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 10px;
+}
+img{
+    width: 230px;
+    height: 250px;
+    border-radius: 20px;
+    border: 1px solid white;
+    margin-left: 15px;
+}
+.pic{
+    display: flex;
+   
+}
+.grandchild{
+    position: absolute;
+    right: 150px;
+    top: 380px;
+}
+.num{
+    background-color: rgb(88, 57, 88);
+    color: white;
+    border: 1px solid rgb(88, 57, 88) ;
+    border-radius: 20px;
+    width: 350px;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+
+.nawa{
+    display: flex;
+    
+}

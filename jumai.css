@@ -1,0 +1,92 @@
+.container {
+  background-color: whitesmoke;
+  width: 3000px;
+  height: 1500px;
+  overflow: hidden;
+  display: flex;
+}
+
+.be {
+  width: 300px;
+}
+.side {
+  background-color: white;
+  margin-left: 150px;
+  margin-top: 150px;
+  width: 850px;
+  height: 800px;
+  border-radius: 4px;
+  display: flex;
+}
+.pic {
+  display: flex;
+  margin-left: 45px;
+  gap: 15px;
+  margin-top: 5px;
+  margin-bottom: 30px;
+}
+.i {
+  width: 40px;
+  border: 1px solid orange;
+  border-radius: 3px;
+}
+.u {
+  width: 40px;
+  border-radius: 3px;
+}
+.us {
+  width: 40px;
+  height: 44px;
+  border-radius: 3px;
+}
+.os {
+  width: 40px;
+  border-radius: 3px;
+}
+.i:hover {
+  cursor: pointer;
+}
+.i:active {
+  border: 1px solid black;
+}
+.u:hover {
+  cursor: pointer;
+}
+.u:active {
+  border: 1px solid black;
+}
+.us:hover {
+  cursor: pointer;
+}
+.us:active {
+  border: 1px solid black;
+}
+.os:hover {
+  cursor: pointer;
+}
+.os:active {
+  border: 1px solid black;
+}
+.para {
+  margin-left: 15px;
+  font-style: normal;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: small;
+}
+.down {
+  color: rgb(66, 110, 255);
+  margin-top: 365px;
+  margin-left: 20px;
+}
+.pro {
+  /* display: flex; */
+  /* margin-right: 50px; */
+  /* margin-top: 130px; */
+  margin-left: 35px;
+}
+.parara {
+  margin-right: 20px;
+}
+.parara::first-line {
+  font-size: larger;
+}
